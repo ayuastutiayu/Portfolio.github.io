@@ -1,0 +1,29 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #faf0e6;
+}
+
+/* #gallery {
+  background-color: #faf0e6;
+} */
+
+#favorit {
+  background-color: #faf0e6;
+}
+
+section {
+  padding-top: 8rem;
+}
+
+.gallery-img {
+  widht: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
+
+.jumbotron {
+  background-image: url('img/si.jpg');
+  background-size: cover;
+}
